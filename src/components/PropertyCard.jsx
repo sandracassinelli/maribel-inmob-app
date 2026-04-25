@@ -14,7 +14,7 @@ const PropertyCard = ({ property }) => {
         </div>
 
         <div className="p-6">
-          <h4 className="text-[#121363] font-light text-lg leading-snug mb-2 h-14 overflow-hidden uppercase tracking-tight">
+          <h4 className="text-[#121363] font-medium text-base leading-tight mb-2 h-12 overflow-hidden uppercase tracking-tight">
             {property.title}
           </h4>
           <p className="text-[#386c8c] font-medium text-lg mb-6">
